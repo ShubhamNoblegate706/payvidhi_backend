@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "types": ["node"],
+    "rootDir": "src",
+    "outDir": "dist",
+
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+
+    "resolveJsonModule": true,
+    "sourceMap": true
+  },
+  "include": ["src",""],
+  "exclude": ["node_modules", "dist"] // Excludes `node_modules` and `dist` directories from the project
+}

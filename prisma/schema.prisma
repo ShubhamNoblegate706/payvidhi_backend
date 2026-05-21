@@ -1,0 +1,35 @@
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  ADMIN
+  HR
+  EMPLOYEE
+}
+
+model Tenant {
+  id        String   @id @default(uuid())
+  name      String
+  domain    String?  @unique   
+  plan      String   @default("FREE")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  users User[]
+}
+model User {
+  id        String   @id @default(uuid())
+  email     String
+  password  String
+  role      Role
+  tenantId  String
+  tenant    Tenant   @relation(fields: [tenantId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
