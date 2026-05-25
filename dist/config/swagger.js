@@ -4,20 +4,26 @@ const options = {
     definition: {
         openapi: "3.0.0",
         info: {
-            title: "HRMS Project API",
+            title: "PayVidhiExpress API",
             version: "1.0.0",
-            description: "Production Ready Express API",
+            description: "Formal authentication and authorization API surface.",
         },
         servers: [
             {
                 url: "http://localhost:9878",
             },
-            {
-                url: "http://3.112.89.56:9878",
-            },
         ],
+        components: {
+            securitySchemes: {
+                bearerAuth: {
+                    type: "http",
+                    scheme: "bearer",
+                    bearerFormat: "JWT",
+                },
+            },
+        },
     },
-    apis: ["./src/routes/*.ts"],
+    apis: ["./src/routes/**/*.ts"],
 };
 const swaggerSpec = swaggerJsdoc(options);
 export const setupSwagger = (app) => {

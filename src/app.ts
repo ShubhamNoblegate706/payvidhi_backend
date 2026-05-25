@@ -1,63 +1,37 @@
-import express, { Application, Request, Response, NextFunction } from "express";
+import express, { Application, NextFunction, Request, Response } from "express";
 import cors from "cors";
 import helmet from "helmet";
 import morgan from "morgan";
-import logger, { loggerStream } from "./utils/logger.js";
 import rateLimit from "express-rate-limit";
 import { setupSwagger } from "./config/swagger.js";
+import { adminAuthRoutes } from "./routes/admin/auth.routes.js";
+import {apiRouter} from "./routes/index.js";
+import { ApiError } from "./utils/apiError.js";
+import logger, { loggerStream } from "./utils/logger.js";
 
-// Initialize app
 const app: Application = express();
 
-// PORT
-const PORT: number = Number(process.env.PORT) || 5000;
-
-// Request logger
 app.use(morgan("combined", { stream: loggerStream }));
-
-// ======================
-// Security Middleware
-// ======================
-
-// Secure HTTP headers
 app.use(helmet());
 
-// Rate Limiter
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 mins
-  max: 100, // limit each IP
+  windowMs: 15 * 60 * 1000,
+  max: 100,
   message: "Too many requests from this IP, please try again later.",
 });
 
 app.use(limiter);
-
-// ======================
-// General Middleware
-// ======================
-
-// Enable CORS
 app.use(
   cors({
     origin: "*",
     credentials: true,
   }),
 );
-
-// Parse JSON
 app.use(express.json());
-
-// Parse URL Encoded Data
 app.use(express.urlencoded({ extended: true }));
-
 setupSwagger(app);
 
-// ======================
-// Routes
-// ======================
-
-// ======================
-// 404 Handler
-// ======================
+app.use("/api/v1", apiRouter);
 
 app.use((req: Request, res: Response) => {
   res.status(404).json({
@@ -66,15 +40,37 @@ app.use((req: Request, res: Response) => {
   });
 });
 
-// ======================
-// Global Error Handler
-// ======================
+app.use((err: unknown, req: Request, res: Response, next: NextFunction) => {
+  logger.error(err instanceof Error ? err.stack : String(err));
 
-app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
-  logger.error(err.stack);
+  if (err instanceof ApiError) {
+    res.status(err.statusCode).json({
+      success: false,
+      message: err.message,
+      errors: err.errors,
+    });
+    return;
+  }
+
+  if (
+    typeof err === "object" &&
+    err !== null &&
+    "statusCode" in err &&
+    "message" in err
+  ) {
+    const error = err as { statusCode: number; message: string; errors?: unknown };
+
+    res.status(error.statusCode ?? 500).json({
+      success: false,
+      message: error.message,
+      errors: error.errors,
+    });
+    return;
+  }
+
   res.status(500).json({
     success: false,
-    message: err.message || "Internal Server Error",
+    message: err instanceof Error ? err.message : "Internal Server Error",
   });
 });
 

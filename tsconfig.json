@@ -12,7 +12,7 @@
     "skipLibCheck": true,
 
     "resolveJsonModule": true,
-    "sourceMap": true
+    "sourceMap": true,
   },
   "include": ["src",""],
   "exclude": ["node_modules", "dist"] // Excludes `node_modules` and `dist` directories from the project

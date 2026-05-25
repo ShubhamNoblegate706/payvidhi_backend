@@ -146,3 +146,733 @@
 {"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-21T11:32:44.306Z"}
 {"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-21T11:32:44.310Z"}
 {"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-21T11:32:44.311Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-21T11:32:45.007Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-21T11:32:45.011Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-21T11:32:45.012Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:02:40.624Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:02:40.629Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:02:40.630Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:25:07.825Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:25:07.829Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:25:07.830Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:30:15.086Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:30:15.091Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:30:15.091Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:30:50.391Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:30:50.396Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:30:50.396Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:31:29.365Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:31:29.369Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:31:29.370Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:31:37.785Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:31:37.789Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:31:37.790Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:32:36.316Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:32:36.321Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:32:36.321Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:32:56.796Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:32:56.802Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:32:56.802Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:35:05.298Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:35:05.303Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:35:05.303Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:35:06.964Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:35:06.968Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:35:06.968Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:35:12.286Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:35:12.290Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:35:12.291Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:35:16.008Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:35:16.012Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:35:16.013Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:35:20.292Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:35:20.296Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:35:20.296Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:38:39.882Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:38:39.886Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:38:39.887Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:39:35.219Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:39:35.223Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:39:35.224Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:39:37.227Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:39:37.231Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:39:37.232Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:39:40.533Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:39:40.537Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:39:40.538Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:39:50.582Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:39:50.586Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:39:50.587Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:39:52.163Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:39:52.167Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:39:52.167Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:40:39.048Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:40:39.053Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:40:39.053Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:40:40.376Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:40:40.380Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:40:40.380Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:15.525Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:15.532Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:15.532Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:20.748Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:20.752Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:20.753Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:23.069Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:23.073Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:23.074Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:35.767Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:35.771Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:35.771Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:38.459Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:38.463Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:38.464Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:45.391Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:45.395Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:45.395Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:41:48.288Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:41:48.292Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:41:48.293Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:45:41.895Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:45:41.900Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:45:41.900Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:45:44.421Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:45:44.426Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:45:44.426Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:45:48.466Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:45:48.470Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:45:48.471Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:45:49.845Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:45:49.849Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:45:49.849Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:46:02.267Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:46:02.272Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:46:02.272Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:46:14.393Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:46:14.397Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:46:14.398Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:46:17.768Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:46:17.772Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:46:17.772Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:46:21.190Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:46:21.193Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:46:21.194Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:49:49.438Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:49:49.443Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:49:49.443Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:49:55.007Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:49:55.011Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:49:55.012Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:01.118Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:01.122Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:01.123Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:09.619Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:09.624Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:09.625Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:12.961Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:12.965Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:12.965Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:18.622Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:18.626Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:18.627Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:20.012Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:20.018Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:20.019Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:26.324Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:26.328Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:26.328Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:27.695Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:27.699Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:27.699Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T05:50:30.879Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T05:50:30.883Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T05:50:30.884Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:05:19.868Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:05:19.875Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:05:19.875Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:05:20.883Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:05:20.890Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:05:20.891Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:27.974Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:27.978Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:27.979Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:40.435Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:40.439Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:40.439Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:42.372Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:42.378Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:42.378Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:44.809Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:44.813Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:44.813Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:46.940Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:46.944Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:46.944Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:48.385Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:48.389Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:48.389Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:08:52.744Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:08:52.748Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:08:52.749Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:09:18.532Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:09:18.536Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:09:18.536Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:09:23.635Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:09:23.639Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:09:23.639Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:10:01.841Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:10:01.846Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:10:01.846Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:10:06.378Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:10:06.382Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:10:06.383Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:10:15.027Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:10:15.031Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:10:15.032Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:10:21.754Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:10:21.758Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:10:21.758Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:12:09.479Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:12:09.484Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:12:09.484Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:12:17.994Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:12:17.998Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:12:17.998Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:22:34.053Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:22:34.057Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:22:34.058Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:22:46.091Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:22:46.095Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:22:46.096Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:24:27.683Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:24:27.687Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:24:27.688Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:25:15.420Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:25:15.425Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:25:15.425Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:25:24.171Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:25:24.175Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:25:24.176Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:39:14.785Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:39:14.789Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:39:14.790Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.345Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.389Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6070 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.394Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.395Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.396Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:39:55 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:39:55.529Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:40:35.194Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:40:35.199Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:40:35.199Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:42:13.144Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:42:13.149Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:42:13.149Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:42:14.798Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:42:14.803Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:42:14.804Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:42:17.300Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:42:17.304Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:42:17.304Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:42:23.462Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:42:23.466Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:42:23.466Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:01.591Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:01.595Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:01.595Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:03.057Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:03.061Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:03.062Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:22.684Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:22.689Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:22.689Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:32.451Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:32.456Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:32.456Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:40.580Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:40.584Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:40.585Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:43.211Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:43.216Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:43.216Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/ HTTP/1.1\" 200 3106 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.070Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6085 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.091Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 200 178977 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.094Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 200 251800 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.098Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 200 1526593 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.106Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:48 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:48.206Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:46:53 +0000] \"POST /api/v1/user/auth/login HTTP/1.1\" 400 332 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:46:53.368Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T06:46:54.373Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T06:46:54.378Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T06:46:54.379Z"}
+{"level":"error","message":"PrismaClientKnownRequestError: \nInvalid `prisma.user.findUnique()` invocation in\nC:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\services\\user\\auth.ts:50:34\n\n  47   password: string,\n  48 ): Promise<LoginResult> => {\n  49   const normalizedEmail = email.toLowerCase().trim();\n→ 50   const user = await prisma.user.findUnique(\n\n    at zr.handleRequestError (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\@prisma\\client\\src\\runtime\\RequestHandler.ts:237:13)\n    at zr.handleAndLogRequestError (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\@prisma\\client\\src\\runtime\\RequestHandler.ts:183:12)\n    at zr.request (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\@prisma\\client\\src\\runtime\\RequestHandler.ts:152:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async a (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\@prisma\\client\\src\\runtime\\getPrismaClient.ts:963:24)\n    at async loginUser (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\services\\user\\auth.ts:50:16)\n    at async <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\controller\\user\\auth.ts:23:18)","timestamp":"2026-05-25T06:47:34.303Z"}
+{"level":"info","message":"::1 - - [25/May/2026:06:47:34 +0000] \"POST /api/v1/user/auth/login HTTP/1.1\" 500 359 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T06:47:34.311Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:18:12.341Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:18:12.346Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:18:12.346Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:18:14.293Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:18:14.297Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:18:14.297Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:18:15.370Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:18:15.374Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:18:15.375Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:21:20.791Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:21:20.795Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:21:20.795Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:23:49.109Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:23:49.114Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:23:49.114Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:23:49.987Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:23:49.991Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:23:49.992Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:24:08.148Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:24:08.152Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:24:08.152Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:24:20.491Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:24:20.496Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:24:20.496Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:24:23.182Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:24:23.186Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:24:23.186Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T07:27:32.306Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T07:27:32.310Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T07:27:32.311Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T08:33:30.599Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T08:33:30.604Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T08:33:30.605Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T08:33:31.486Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T08:33:31.490Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T08:33:31.491Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/ HTTP/1.1\" 200 3106 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.338Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6122 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.358Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 200 178977 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.360Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 200 251800 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.364Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 200 1526593 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.371Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:18 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:18.478Z"}
+{"level":"info","message":"::1 - - [25/May/2026:08:41:41 +0000] \"POST /api/v1/user/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T08:41:41.642Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T08:41:42.590Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T08:41:42.595Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T08:41:42.596Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:40:05.357Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:40:05.360Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:40:05.361Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:40:06.220Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:40:06.225Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:40:06.225Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:48:15.338Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:48:15.342Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:48:15.342Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:48:21.760Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:48:21.764Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:48:21.765Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:48:24.643Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:48:24.647Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:48:24.648Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:54:36.012Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:54:36.016Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:54:36.016Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:54:36.889Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:54:36.893Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:54:36.893Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.416Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6129 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.432Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.435Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.436Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.437Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:55:43 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:55:43.572Z"}
+{"level":"info","message":"::1 - - [25/May/2026:09:57:40 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T09:57:40.519Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:57:41.573Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:57:41.578Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:57:41.578Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T09:59:26.208Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T09:59:26.212Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T09:59:26.213Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:04:20 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:04:20.707Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:04:45.545Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:04:45.549Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:04:45.549Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:04:46.418Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:04:46.422Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:04:46.423Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:04:49 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 164 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:04:49.464Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:04:50 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 164 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:04:50.382Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:04:51 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 164 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:04:51.078Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:05:21.780Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:05:21.784Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:05:21.785Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:05:44.956Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:05:44.960Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:05:44.961Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:05:47.546Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:05:47.550Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:05:47.550Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.172Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.191Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.194Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.196Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.197Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:39 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:39.258Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:06:43 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:06:43.218Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:07:16.476Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:07:16.479Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:07:16.480Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:07:17.643Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:07:17.647Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:07:17.648Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:03 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:03.821Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:04 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:04.836Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:05 +0000] \"POST /api/v1//admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:05.613Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.132Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6128 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.150Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.154Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.155Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.156Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:10 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:10.200Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:08:16.412Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:08:16 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:08:16.418Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:09:44.590Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:09:44.595Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:09:44.595Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:10:05.655Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:10:05 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:10:05.661Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:10:12.900Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:10:12 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:10:12.903Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:10:43.879Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:10:43.883Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:10:43.883Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:10:45.916Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:10:45.920Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:10:45.920Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:10:58.296Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:10:58.300Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:10:58.301Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:11:30.193Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:11:30.198Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:11:30.198Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:11:51.599Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:11:51.603Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:11:51.603Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:12:07.819Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:12:07 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:12:07.822Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:12:08.681Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:12:08 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:12:08.682Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:12:16.513Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:12:16.517Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:12:16.517Z"}
+{"level":"error","message":"Error: Jwt cannot be parsed\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:12:24.365Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:12:24 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 50 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:12:24.368Z"}
+{"level":"error","message":"Error: Error while resolving signing key for kid \"x6h2L9VvzOO3m6bWNFONV\"\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:52:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:16:14.271Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:16:14 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 97 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:16:14.273Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:16:36.624Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:16:36.628Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:16:36.629Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:16:48.126Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:16:48.132Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:16:48.133Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:16:51.716Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:16:51.721Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:16:51.722Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:16:53.507Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:16:53.511Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:16:53.511Z"}
+{"level":"error","message":"Error: Error while resolving signing key for kid \"x6h2L9VvzOO3m6bWNFONV\"\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:53:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:17:00.281Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:17:00 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 97 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:17:00.286Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:19:30.794Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:19:30.798Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:19:30.798Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:19:32.447Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:19:32.450Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:19:32.451Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:19:34.266Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:19:34.272Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:19:34.273Z"}
+{"level":"error","message":"Error: Error while resolving signing key for kid \"x6h2L9VvzOO3m6bWNFONV\"\n    at OktaMiddleware (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:53:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)","timestamp":"2026-05-25T10:20:35.493Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:20:35 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 403 97 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:20:35.497Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:29:57.176Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:29:57.180Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:29:57.180Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:29:58.125Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:29:58.129Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:29:58.130Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:24.804Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:24.807Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:24.808Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:26.478Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:26.493Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:26.495Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:46.215Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:46.219Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:46.219Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:49.170Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:49.174Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:49.174Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:51.509Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:51.513Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:51.513Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:54.466Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:54.469Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:54.470Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:30:57.539Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:30:57.543Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:30:57.544Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:06.218Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:06.222Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:06.222Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:10.927Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:10.931Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:10.931Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:16.281Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:16.287Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:16.288Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:18.603Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:18.607Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:18.608Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:20.045Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:20.049Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:20.050Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:31:24.702Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:31:24.706Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:31:24.707Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:11.416Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:11.420Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:11.421Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:18.376Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:18.381Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:18.381Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:20.396Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:20.401Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:20.402Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:37.209Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:37.213Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:37.213Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:40.717Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:40.723Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:40.723Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:42.785Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:42.789Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:42.789Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:49.794Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:49.798Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:49.798Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:32:59.850Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:32:59.855Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:32:59.855Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:33:02.386Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:33:02.390Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:33:02.391Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:33:06.674Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:33:06.678Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:33:06.678Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:33:09.288Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:33:09.292Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:33:09.292Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:33:23.602Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:33:23.606Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:33:23.607Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:35:49.590Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:35:49.595Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:35:49.595Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:36:04.205Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:36:04.209Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:36:04.209Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:36:07.941Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:36:07.945Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:36:07.946Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:41:19.441Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:41:19.445Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:41:19.445Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:41:20.413Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:41:20.417Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:41:20.417Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:43:19.566Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:43:19.570Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:43:19.571Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:43:22.195Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:43:22.200Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:43:22.200Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:43:27.662Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:43:27.666Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:43:27.666Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:43:30.428Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:43:30.432Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:43:30.432Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:43:34.187Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:43:34.191Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:43:34.191Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:25.766Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:25.771Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:25.772Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:28.862Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:28.866Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:28.866Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:34.591Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:34.595Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:34.595Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:36.021Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:36.024Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:36.025Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:37.241Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:37.245Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:37.245Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:44:38.252Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:44:38.256Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:44:38.256Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:45:30.192Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:45:30.196Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:45:30.197Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:45:34.208Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:45:34.212Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:45:34.212Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:46 +0000] \"POST /api/v1/admin/auth/login HTTP/1.1\" 404 45 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:46.241Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.571Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 5027 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.595Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.596Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.598Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.598Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:55 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:55.655Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/ HTTP/1.1\" 200 3106 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.009Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 5027 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.031Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 200 178977 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.036Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 200 251800 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.039Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 200 1526593 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.044Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:45:56 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:45:56.104Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:46:16.382Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:46:16.386Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:46:16.386Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:46:31.695Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:46:31.698Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:46:31.699Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:47:15.899Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:47:15.903Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:47:15.903Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:47:17.507Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:47:17.511Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:47:17.511Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/ HTTP/1.1\" 200 3106 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.450Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/swagger-ui-init.js HTTP/1.1\" 200 6329 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.467Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/swagger-ui.css HTTP/1.1\" 200 178977 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.469Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/swagger-ui-standalone-preset.js HTTP/1.1\" 200 251800 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.476Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/swagger-ui-bundle.js HTTP/1.1\" 200 1526593 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.481Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:25 +0000] \"GET /api/docs/favicon-32x32.png HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:25.547Z"}
+{"level":"error","message":"Error: jwt issuer invalid. expected: https://noblegate-hrms.us.auth0.com\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:41:23)\n    at C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\jsonwebtoken\\verify.js:215:16\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:14:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2026-05-25T10:47:51.814Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:47:51 +0000] \"GET /api/v1/admin/auth/dashboard HTTP/1.1\" 403 95 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:47:51.817Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T10:49:42.366Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T10:49:42.370Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T10:49:42.370Z"}
+{"level":"error","message":"Error: Unauthorized: user not authenticated.\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\controller\\admin\\auth.ts:12:13)\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\utils\\asyncHandler.ts:12:21)\n    at Layer.handleRequest (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\router\\lib\\route.js:157:13)\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:51:9)\n    at C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:14:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2026-05-25T10:50:06.669Z"}
+{"level":"info","message":"::1 - - [25/May/2026:10:50:06 +0000] \"GET /api/v1/admin/auth/dashboard HTTP/1.1\" 401 67 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T10:50:06.674Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:10:16.425Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:10:17.931Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:10:17.940Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:10:17.941Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:10:20.202Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:10:20.208Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:10:20.209Z"}
+{"level":"error","message":"Error: Unauthorized: user not authenticated.\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\controller\\admin\\auth.ts:13:13)\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\utils\\asyncHandler.ts:12:21)\n    at Layer.handleRequest (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\router\\lib\\route.js:157:13)\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:51:9)\n    at C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\node_modules\\jsonwebtoken\\verify.js:261:12\n    at <anonymous> (C:\\Users\\Shubham Yadav\\Desktop\\nodeProject\\payVidhiExpress\\src\\middleware\\tokenVerification.ts:14:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)","timestamp":"2026-05-25T11:10:26.244Z"}
+{"level":"info","message":"::1 - - [25/May/2026:11:10:26 +0000] \"GET /api/v1/admin/auth/dashboard HTTP/1.1\" 401 67 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T11:10:26.260Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:49:42.767Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:49:42.776Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:49:42.777Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:49:44.444Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:49:44.451Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:49:44.453Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:50:20.716Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:50:20.721Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:50:20.721Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:50:41.715Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:50:41.721Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:50:41.721Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:50:43.821Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:50:43.829Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:50:43.830Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:50:49.978Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:50:49.987Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:50:49.988Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:50:51.566Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:50:51.576Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:50:51.577Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:04.363Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:04.369Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:04.369Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:12.242Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:12.249Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:12.250Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:14.338Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:14.346Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:14.346Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:22.661Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:22.667Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:22.668Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:25.315Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:25.321Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:25.321Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:28.083Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:28.088Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:28.089Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:39.612Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:39.621Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:39.622Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:40.932Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:40.937Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:40.938Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:42.966Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:42.974Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:42.976Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:48.412Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:48.420Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:48.420Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:51:54.617Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:51:54.623Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:51:54.623Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:52:15.892Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:52:15.900Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:52:15.902Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:52:25.799Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:52:25.804Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:52:25.805Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:53:39.659Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:53:39.668Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:53:39.669Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:53:44.493Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:53:44.499Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:53:44.500Z"}
+{"level":"info","message":"::1 - - [25/May/2026:11:54:37 +0000] \"GET /api/v1/admin/auth/dashboard HTTP/1.1\" 200 184 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36\"","timestamp":"2026-05-25T11:54:37.922Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:55:50.961Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:55:50.968Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:55:50.969Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:55:54.359Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:55:54.364Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:55:54.365Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:55:55.799Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:55:55.805Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:55:55.806Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:00.171Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:00.179Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:00.180Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:02.954Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:02.961Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:02.961Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:15.885Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:15.894Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:15.895Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:18.437Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:18.449Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:18.450Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:33.728Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:33.735Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:33.736Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:35.177Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:35.185Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:35.186Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:36.980Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:36.986Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:36.986Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:46.242Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:46.248Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:46.248Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:56:51.676Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:56:51.683Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:56:51.684Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2026-05-25T11:57:06.503Z"}
+{"level":"info","message":"Server running on http://localhost:9878","timestamp":"2026-05-25T11:57:06.511Z"}
+{"level":"info","message":"Swagger Docs available at http://localhost:9878/api/docs","timestamp":"2026-05-25T11:57:06.511Z"}

@@ -38,7 +38,11 @@ export const JsonNull = runtime.JsonNull;
  * @see https://www.prisma.io/docs/concepts/components/prisma-client/working-with-fields/working-with-json-fields#filtering-on-a-json-field
  */
 export const AnyNull = runtime.AnyNull;
-export const ModelName = {};
+export const ModelName = {
+    Tenant: 'Tenant',
+    Admin: 'Admin',
+    User: 'User'
+};
 /*
  * Enums
  */
@@ -48,4 +52,46 @@ export const TransactionIsolationLevel = runtime.makeStrictEnum({
     RepeatableRead: 'RepeatableRead',
     Serializable: 'Serializable'
 });
+export const TenantScalarFieldEnum = {
+    id: 'id',
+    name: 'name',
+    domain: 'domain',
+    plan: 'plan',
+    createdAt: 'createdAt',
+    updatedAt: 'updatedAt'
+};
+export const AdminScalarFieldEnum = {
+    id: 'id',
+    email: 'email',
+    password: 'password',
+    role: 'role',
+    tenantId: 'tenantId',
+    resetToken: 'resetToken',
+    resetTokenExpiresAt: 'resetTokenExpiresAt',
+    createdAt: 'createdAt',
+    updatedAt: 'updatedAt'
+};
+export const UserScalarFieldEnum = {
+    id: 'id',
+    email: 'email',
+    password: 'password',
+    role: 'role',
+    tenantId: 'tenantId',
+    resetToken: 'resetToken',
+    resetTokenExpiresAt: 'resetTokenExpiresAt',
+    createdAt: 'createdAt',
+    updatedAt: 'updatedAt'
+};
+export const SortOrder = {
+    asc: 'asc',
+    desc: 'desc'
+};
+export const QueryMode = {
+    default: 'default',
+    insensitive: 'insensitive'
+};
+export const NullsOrder = {
+    first: 'first',
+    last: 'last'
+};
 //# sourceMappingURL=prismaNamespaceBrowser.js.map

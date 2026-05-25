@@ -1,8 +1,8 @@
-
 generator client {
   provider = "prisma-client"
   output   = "../src/generated/prisma"
 }
+
 datasource db {
   provider = "postgresql"
 }
@@ -13,23 +13,96 @@ enum Role {
   EMPLOYEE
 }
 
-model Tenant {
-  id        String   @id @default(uuid())
-  name      String
-  domain    String?  @unique   
-  plan      String   @default("FREE")
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-
-  users User[]
+enum EmployeeStatus {
+  ACTIVE
+  INACTIVE
+  TERMINATED
 }
+
+enum EmploymentType {
+  FULL_TIME
+  PART_TIME
+  CONTRACT
+  INTERN
+}
+
+model Tenant {
+  id        String     @id @default(uuid())
+  name      String
+  domain    String?    @unique
+  plan      String     @default("FREE")
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  users     User[]
+  employees Employee[]
+}
+
 model User {
-  id        String   @id @default(uuid())
-  email     String
-  password  String
-  role      Role
+  id        String    @id @default(uuid())
+  email     String    @unique
+  password  String?
+  oktaId    String?   @unique
   tenantId  String
-  tenant    Tenant   @relation(fields: [tenantId], references: [id])
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  tenant    Tenant    @relation(fields: [tenantId], references: [id])
+  employee  Employee?
+  createdAt DateTime  @default(now())
+}
+
+model Employee {
+  id             String          @id @default(uuid())
+  tenantId       String
+  tenant         Tenant          @relation(fields: [tenantId], references: [id])
+  userId         String?         @unique
+  user           User?           @relation(fields: [userId], references: [id])
+  departmentId   String?
+  designationId  String?
+  managerId      String?
+  firstName      String
+  lastName       String
+  email          String          @unique
+  phoneNumber    String?
+  dateOfBirth    DateTime?
+  gender         String?
+  status         EmployeeStatus  @default(ACTIVE)
+  addresses      Address[]
+  educations     Education[]
+  documents      Document[]
+  dateOfJoining  DateTime?
+  employmentType EmploymentType?
+  createdAt      DateTime        @default(now())
+  updatedAt      DateTime        @updatedAt
+
+}
+
+model Document {
+  id         String   @id @default(uuid())
+  employeeId String
+  employee   Employee @relation(fields: [employeeId], references: [id])
+  type       String
+  url        String
+  uploadedAt DateTime @default(now())
+}
+
+model Education {
+  id          String   @id @default(uuid())
+  employeeId  String
+  employee    Employee @relation(fields: [employeeId], references: [id])
+  degree      String
+  institution String
+  startYear   Int?
+  endYear     Int?
+  grade       String?
+}
+
+model Address {
+  id         String   @id @default(uuid())
+  employeeId String
+  employee   Employee @relation(fields: [employeeId], references: [id])
+  type       String
+  line1      String
+  line2      String?
+  city       String
+  state      String
+  country    String
+  zipCode    String
 }

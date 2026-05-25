@@ -17,6 +17,7 @@ export const createTenantSchema = z.object({
     plan: z.enum(["FREE", "PRO", "ENTERPRISE"]).optional(),
   }),
 });
+
 export const createUserSchema = z.object({
   body: z.object({
     name: z.string().min(3, "Name must be at least 3 characters").max(100),
@@ -24,9 +25,17 @@ export const createUserSchema = z.object({
     role: z.enum(["ADMIN", "HR", "EMPLOYEE"]),
   }),
 });
-export const resetPassword = z.object({
+
+export const forgotPasswordSchema = z.object({
+  body: z.object({
+    email: z.string().email("Invalid email").toLowerCase(),
+  }),
+});
+
+export const resetPasswordSchema = z.object({
   body: z
     .object({
+      token: z.string().min(20, "Reset token is required."),
       newPassword: z
         .string()
         .min(8, "Password must be at least 8 characters")
@@ -35,17 +44,23 @@ export const resetPassword = z.object({
         .regex(/[a-z]/, "Must contain at least one lowercase letter")
         .regex(/[0-9]/, "Must contain at least one number")
         .regex(/[@$!%*?&]/, "Must contain at least one special character"),
-
-      confirmPassword: z.string()
+      confirmPassword: z.string(),
     })
     .refine((data) => data.newPassword === data.confirmPassword, {
       message: "Passwords do not match",
       path: ["confirmPassword"],
     }),
 });
+
 export const loginSchema = z.object({
   body: z.object({
-    email: z.string().email("Invalid email"),
+    email: z.string().email("Invalid email").toLowerCase(),
     password: z.string().min(8, "Password must be at least 8 characters"),
+  }),
+});
+
+export const adminOktaLoginSchema = z.object({
+  body: z.object({
+    token: z.string().min(20, "Okta token is required."),
   }),
 });

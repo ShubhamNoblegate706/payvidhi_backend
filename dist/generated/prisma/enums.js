@@ -7,5 +7,9 @@
 *
 * 🟢 You can import this file directly.
 */
-export {};
+export const Role = {
+    ADMIN: 'ADMIN',
+    HR: 'HR',
+    EMPLOYEE: 'EMPLOYEE'
+};
 //# sourceMappingURL=enums.js.map
